@@ -12,7 +12,7 @@ Key Points :
 - 
 Usage :
 
-```d = DictWrapper({"a":2,"b":[1,2]})```
+```d = ReadOnlyDictWrapper({"a":2,"b":[1,2]})```
 
 now 'd' will behave as a normal dict
 
